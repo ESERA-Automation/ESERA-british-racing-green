@@ -1,9 +1,9 @@
 {
     "author": "Andreas Geisler",
-    "version": "0.31",
+    "version": "0.32",
     "compatible": 1,
     "url": "http:\/\/www.esera.de",
-    "git": "https://github.com/ESERA-Automation/ESERA-ips-british-racing-green.git",
+    "git": "https://github.com/ESERA-Automation/ESERA-british-racing-green.git",
     "icons": [
         "Battery-0",
         "Battery-100",
