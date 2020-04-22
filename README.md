@@ -1,5 +1,5 @@
 ESERA-Automation für IP-Symcon WebFront
-* Copyright ESERA, E-Service GmbH 2017
+* Copyright ESERA, E-Service GmbH 2017-2020
 
 * Größe: 248kB
 * Farbton: british racing green
